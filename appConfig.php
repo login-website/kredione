@@ -9,7 +9,7 @@ return [
 
     // Konfigurasi Website
     'web' => [
-        'domain'      => 'https://360kredi.vercel.app/req/UDarkByte.php',
+        'domain'      => 'https://360kredi.vercel.app',
         'app_name'    => 'KrediOne',
         'title'       => 'Kredione',
         'description' => 'Kredione menyediakan pinjaman online cepat, bunga rendah, dan proses mudah untuk kebutuhan keuangan Anda. Wa☎️: 0821-8990-9963.',
